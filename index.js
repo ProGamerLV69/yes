@@ -29,7 +29,7 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("hello");
+	bot.chat("https://youtu.be/xm3YgoEiEDc");
 });
 
 bot.on('time', function(time) {
