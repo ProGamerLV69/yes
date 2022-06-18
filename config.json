@@ -2,5 +2,5 @@
 	"ip":"MythLandSM.aternos.me",
 	"port": "46600",
 	"name": "24hON",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
